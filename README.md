@@ -40,12 +40,7 @@ projet-agence-crea/
 git clone 
 ```
 
-### 3. Créer une branche
-```bash
-git checkout -b dev
-```
-
-### 4. Développer
+### 3. Développer
 - Complétez `about.html` avec une présentation de l’agence.
 - Complétez `contact.html` avec un formulaire (nom, email, message).
 
