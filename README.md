@@ -37,7 +37,7 @@ projet-agence-crea/
 
 ### 2. Cloner le projet
 ```bash
-git clone 
+git clone https://github.com/BryanParisot/Cr-aNova.git
 ```
 
 ### 3. Développer
